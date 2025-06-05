@@ -1,9 +1,10 @@
 [submodule "panda"]
   path = panda
   url = https://github.com/sunnyhaibin/panda.git
-[submodule "opendbc"]
+[submodule "opendbc_repo"]
   path = opendbc_repo
-  url = https://github.com/sunnypilot/opendbc.git
+  url = https://github.com/ColbyJack1134/opendbc.git
+  branch =  honda_canfd_tuned_sp
 [submodule "msgq"]
   path = msgq_repo
   url = https://github.com/sunnypilot/msgq.git

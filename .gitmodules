@@ -3,7 +3,7 @@
   url = https://github.com/sunnyhaibin/panda.git
 [submodule "opendbc_repo"]
   path = opendbc_repo
-  url = https://github.com/ColbyJack1134/opendbc.git
+  url = https://github.com/ColbyJack1134/opendbc
   branch =  honda_canfd_tuned_sp
 [submodule "msgq"]
   path = msgq_repo
